@@ -1,2 +1,11 @@
-/AnagramGame/build/
-/AnagramGame/dist/
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+/AnagramGamebuild/
+/AnagramGamenbbuild/
+/AnagramGamedist/
+/AnagramGamenbdist/
+/AnagramGame.nb-gradle/
+tmp/
